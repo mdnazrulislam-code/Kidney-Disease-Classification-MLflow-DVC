@@ -14,6 +14,8 @@
 9. Update the dvc.yaml
 10. app.py
 
+
+
 # How to run?
 ### STEPS:
 
@@ -47,3 +49,5 @@ Now,
 ```bash
 open up you local host and port
 ```
+
+Thats it for now
